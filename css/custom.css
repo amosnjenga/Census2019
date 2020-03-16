@@ -1,0 +1,70 @@
+body{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#main_header{
+	height: 20%;
+	text-align: center;
+	padding: 5px;
+	background: #8c8c8c;
+}
+#title h1{
+	font-size: 40px;
+	color: white;
+}
+#main_window{
+    height: 70%;
+    padding-bottom: 2px;
+}
+#sidebar_1{
+	height: 100%;
+}
+.introduction{
+	width: 100%;
+	height: 45%;
+	text-align: center;
+}
+.introduction h3{
+	font-size: 30px;
+}
+.summary{
+   width: 100%;
+   height: 55%;
+}
+#svgsummary p{
+	font-size: 18px;
+}
+#svgsummary .numerical{
+	font-size: 26px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: white;
+
+}
+
+#mapview{
+    height: 100%;
+    padding-top: 5px;
+    text-align: center;
+}
+#sidebar_2{
+    height: 100%;
+    padding-top: 5px;
+}
+#countySummary{
+    padding-top: 10px;
+    border: solid blue 1px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#footer{
+	width: 100%;
+    height: 10%;
+    background: #8c8c8c;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-bottom: 2px;
+
+}
